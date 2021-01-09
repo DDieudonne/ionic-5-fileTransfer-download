@@ -68,9 +68,11 @@ export class HomePage {
       case 'file':
         nameFile = 'file_' + new Date().getTime();
         url = "https://vadimdez.github.io/ng2-pdf-viewer/assets/pdf-test.pdf";
+        const part = url.split('/').pop();
+        const type = part.split('.').pop();
         docName = 'files';
         // (ex : pdf, docx, svg, any type file....)
-        typeFile = 'pdf';
+        typeFile = type;
         this.nextDetectDevice(url, typeFile, nameFile, docName);
         break;
     }
@@ -140,7 +142,7 @@ export class HomePage {
           text: 'Verifier / Check settings',
           handler: () => {
             this.openNativeSettings.open('application_details')
-              .then((state) => {  })
+              .then((state) => { })
           }
         },
         {
