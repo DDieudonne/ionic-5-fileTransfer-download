@@ -4,3 +4,11 @@
 4/ ENJOY 🎉🎉🎉
 
 ps : verifier / checking settings : alert displayed when user block or deny ANDROID PERMISSION manuelly
+
+<div style="display:flex;align-items:center;">
+  <img src="https://github.com/DDieudonne/ionic-5-fileTransfer-download/blob/main/src/assets/screenshots/2.jpg" width="15%">
+  <img src="https://github.com/DDieudonne/ionic-5-fileTransfer-download/blob/main/src/assets/screenshots/3.jpg" width="15%">
+  <img src="https://github.com/DDieudonne/ionic-5-fileTransfer-download/blob/main/src/assets/screenshots/4.jpg" width="15%">
+  <img src="https://github.com/DDieudonne/ionic-5-fileTransfer-download/blob/main/src/assets/screenshots/1.jpg" width="15%">
+  <img src="https://github.com/DDieudonne/ionic-5-fileTransfer-download/blob/main/src/assets/screenshots/5.jpg" width="15%">
+</div>
