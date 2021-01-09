@@ -1,9 +1,9 @@
 1/ NPM INTALL  <br/>
 2/ GO TO PACKAGE.JSON et verify you have good version of "cordova-android": "^8.1.0" , cause fileTransfer plugin do not work with "cordova-android": "9.0.0" (i dont know why) <br/>
-3/ BUILD : ionic cordova build android
-4/ ENJOY 🎉🎉🎉
+3/ BUILD : ionic cordova build android <br/>
+4/ ENJOY 🎉🎉🎉 <br/>
 
-ps : verifier / checking settings : alert displayed when user block or deny ANDROID PERMISSION manuelly
+ps : verifier / checking settings : alert displayed when user block or deny ANDROID PERMISSION manuelly <br/>
 
 <div style="display:flex;align-items:center;">
   <img src="https://github.com/DDieudonne/ionic-5-fileTransfer-download/blob/main/src/assets/screenshots/2.jpg" width="15%">
