@@ -1,5 +1,6 @@
 1/ NPM INTALL  <br/>
-2/ GO TO PACKAGE.JSON et verify you have good version of "cordova-android": "^8.1.0" , cause fileTransfer plugin do not work with "cordova-android": "9.0.0" (i dont know why) <br/>
+2/ GO TO PACKAGE.JSON et verify you have good version of "cordova-android": "^8.1.0" , cause fileTransfer plugin do not work with "cordova-android": "9.0.0" (cause deprecated)
+new vrsion for cordova-android : 9.0.0 is <a>https://cordova.apache.org/blog/2017/10/18/from-filetransfer-to-xhr2.html</a> <br/>
 3/ BUILD : ionic cordova build android <br/>
 4/ ENJOY 🎉🎉🎉 <br/>
 
